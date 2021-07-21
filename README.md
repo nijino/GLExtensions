@@ -1,3 +1,10 @@
+
+# 由于某些时刻，不可抗力因素，导致GitHub可能存在无法访问的情况，故此项目移至Gitee
+# 新地址 ： https://gitee.com/GL9700/GLExtensions
+# Cocoapods 引入方式不变
+---
+---
+
 ![logo](https://github.com/GL9700/gl9700.github.io/blob/master/GLSLogo_800.png?raw=true)
 # GLExtensions
 
